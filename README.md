@@ -4,10 +4,10 @@ The University management system is a desktop application that manages student,t
 ***
 
 <h3>Objective</h3>
-<ol>
+<ul>
     <li>A desktop application that is used to manage students and professors information , students attendance, fees, marks in particular subjects details;professor attendance detail.</li>
     <li>The student can see his/her attendance, marks,personal details, and the professor can see his/her attendance. </li>
-</ol>
+</ul>
 
 ***
 
